@@ -2,6 +2,15 @@
 
 The **TRI Smoke Simulation Project** is an interactive visualization and data analysis tool designed to explore the impact of toxic releases from facilities on communities across Chicago. By leveraging multiple datasets and advanced simulation techniques, this project aims to enhance understanding and foster informed decision-making for environmental justice and public health.
 
+Smoke spread visulization ( higher the toxicity, redder the pixel)
+![Screenshot 2024-12-09 195857](https://github.com/user-attachments/assets/65a25180-1dae-4f26-8594-a91fa4281fbc)
+
+Scaling the simulation to all TRI facilities of Chicago
+![Screenshot 2024-12-09 195940](https://github.com/user-attachments/assets/25d7f685-b02b-4c5a-ade2-c7fdfb0ab322)
+
+Community level based aggregation
+![Screenshot 2024-11-28 161012](https://github.com/user-attachments/assets/00b85b5a-0d35-4ba6-b019-702f59b04229)
+
 ---
 
 ## **Key Features**
